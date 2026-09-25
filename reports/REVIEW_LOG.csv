@@ -1,0 +1,4 @@
+﻿round,frame_id,object,action,rule_or_reason
+"1,frame_0099.jpg,""car ? g?n màn hình b? model b? sót"",added,""Xe t? 4 bánh tr? lên ph?i ???c gán nhãn car; AI không detect nên thêm box."""
+"1,frame_0099.jpg,""2 car ? xa b? ch?ng/che lên nhau và model b? sót"",added,""Hai xe ??ng sát ho?c che nhau v?n ph?i gán thành hai box riêng; AI không detect nên thêm box."""
+"1,frame_0312.jpg,""xe t?i l?n b? model b? sót"",added,""Xe t?i thu?c l?p car theo guideline; AI không detect nên thêm box."""
